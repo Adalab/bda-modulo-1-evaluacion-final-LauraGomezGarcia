@@ -1,7 +1,7 @@
 # Evaluación final Modulo 1 - Laura 
 
 
-Este proyecto consiste en crear una simulación básica de una tienda online utilizando Python. El objetivo principal es practicar los conceptos fundamentales del lenguaje, como variables, estructuras de datos (listas, diccionarios), funciones y bucles, aplicándolos a un escenario práctico de gestión de inventario y compras.
+Este proyecto consiste en crear una simulación de una tienda online utilizando Python. El objetivo principal es practicar los conceptos fundamentales del lenguaje, como variables, estructuras de datos (listas, diccionarios), funciones y bucles, aplicándolos a un escenario práctico de gestión de inventario y compras.
 
 ## Descripción General
 
@@ -14,7 +14,7 @@ La aplicación permite realizar las siguientes acciones:
 
 ## Instrucciones de Ejecución
 
-1.  Guarda el código Python en un archivo con extensión 
+1.  Guarda el código Python en un archivo con extensión .py
 2.  Abre una terminal o línea de comandos.
 3.  Navega hasta el directorio donde guardaste el archivo.
 4.  Ejecuta el script 
