@@ -20,6 +20,8 @@ La aplicación permite realizar las siguientes acciones:
 4.  Ejecuta el script 
 5.  Sigue las instrucciones que aparecerán en la consola para interactuar con la tienda.
 
+6. NOTA: EL ARCHIVO CON NOMBRE COPIA SOLO ES UNA COPIA DE SEGURIDAD
+
 ## Funcionalidades Implementadas
 
 * **Creación de productos:** Permite al usuario ingresar la información de nuevos productos.
